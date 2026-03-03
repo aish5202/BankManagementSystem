@@ -1,0 +1,13 @@
+# Compiled class files
+*.class
+
+# JAR files
+*.jar
+
+# NetBeans
+build/
+dist/
+nbproject/private/
+
+# Logs
+*.log
